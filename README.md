@@ -33,6 +33,22 @@ EcoStat/
 ├── requirements.txt
 └── ecostat_sample_dataset.csv
 ```
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Sustainability Calculator
+![Sustainability Calculator](screenshots/sustainability-calculator.png)
+
+### Community Insights
+![Community Insights](screenshots/community-insights.png)
 
 ## Future Improvements
 
